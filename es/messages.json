@@ -1,5 +1,7 @@
 {
-  "About Us": "About Us ES",
-  "Address": "",
-  "auth.error.already_registered": ""
+    "About Us": "About Us_ es",
+    "Address": "Address WTF?",
+    "auth.error.already_registered": "This {type, select, phone {Phone number} email {Email}} is already registered. Please log in. ES",
+    "new_key": "new key es e",
+    "new_key 2": "new key 2 es"
 }
