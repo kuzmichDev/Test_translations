@@ -3,5 +3,6 @@
   "Address": "Address",
   "auth.error.already_registered": "This {type, select, phone {Phone number} email {Email}} is already registered. Please log in.",
   "new_key": "new key",
-  "new_key 2": "new key 2"
+  "new_key 2": "new key 2",
+  "new_key_3": ""
 }
